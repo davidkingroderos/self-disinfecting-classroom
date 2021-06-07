@@ -1,0 +1,9 @@
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\bin\Release\Self Disinfecting Classroom.exe.config
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\bin\Release\Self Disinfecting Classroom.exe
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\bin\Release\Self Disinfecting Classroom.pdb
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\bin\Release\Bogus.dll
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\bin\Release\Bogus.xml
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Release\Self Disinfecting Classroom.csproj.CoreCompileInputs.cache
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Release\Self Disinfecting Classroom.csproj.CopyComplete
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Release\Self Disinfecting Classroom.exe
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Release\Self Disinfecting Classroom.pdb

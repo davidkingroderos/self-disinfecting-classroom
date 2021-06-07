@@ -1,0 +1,24 @@
+D:\ALL CODE\Self Disinfecting Classroom\Self Disinfecting Classroom\Self Disinfecting Classroom\bin\Debug\Self Disinfecting Classroom.exe.config
+D:\ALL CODE\Self Disinfecting Classroom\Self Disinfecting Classroom\Self Disinfecting Classroom\bin\Debug\Self Disinfecting Classroom.exe
+D:\ALL CODE\Self Disinfecting Classroom\Self Disinfecting Classroom\Self Disinfecting Classroom\bin\Debug\Self Disinfecting Classroom.pdb
+D:\ALL CODE\Self Disinfecting Classroom\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.csprojAssemblyReference.cache
+D:\ALL CODE\Self Disinfecting Classroom\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.csproj.CoreCompileInputs.cache
+D:\ALL CODE\Self Disinfecting Classroom\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.exe
+D:\ALL CODE\Self Disinfecting Classroom\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.pdb
+D:\ALL CODE\SelfDisinfectingClassroom\Self Disinfecting Classroom\Self Disinfecting Classroom\bin\Debug\Self Disinfecting Classroom.exe.config
+D:\ALL CODE\SelfDisinfectingClassroom\Self Disinfecting Classroom\Self Disinfecting Classroom\bin\Debug\Self Disinfecting Classroom.exe
+D:\ALL CODE\SelfDisinfectingClassroom\Self Disinfecting Classroom\Self Disinfecting Classroom\bin\Debug\Self Disinfecting Classroom.pdb
+D:\ALL CODE\SelfDisinfectingClassroom\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.csprojAssemblyReference.cache
+D:\ALL CODE\SelfDisinfectingClassroom\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.csproj.CoreCompileInputs.cache
+D:\ALL CODE\SelfDisinfectingClassroom\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.exe
+D:\ALL CODE\SelfDisinfectingClassroom\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.pdb
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\bin\Debug\Self Disinfecting Classroom.exe.config
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\bin\Debug\Self Disinfecting Classroom.exe
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\bin\Debug\Self Disinfecting Classroom.pdb
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\bin\Debug\Bogus.dll
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\bin\Debug\Bogus.xml
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.csprojAssemblyReference.cache
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.csproj.CoreCompileInputs.cache
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.csproj.CopyComplete
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.exe
+D:\ALL CODE\Self Disinfecting Classroom No Database\Self Disinfecting Classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.pdb
