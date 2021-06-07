@@ -40,10 +40,10 @@ namespace Self_Disinfecting_Classroom
 
         public void Disinfect()
         {
-            Console.WriteLine($"Room {RoomNumber} is being disinfected.");
+            Console.WriteLine($"Room {this.RoomNumber} is being disinfected.");
             for (int i = 0; i < LoggedUsers.Count; i++)
             {
-                LoggedUsers[0].Logout(this);
+                LoggedUsers[i].DisinfectLogout(this);
             }
             this.LoggedUsers.Clear();
             this.isDisinfecting = true;
