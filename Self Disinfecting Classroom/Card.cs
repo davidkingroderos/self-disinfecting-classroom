@@ -50,12 +50,14 @@ namespace Self_Disinfecting_Classroom
             }
         }
 
+        
         public void Logout(Room room)
         {
             this.LoggedRoom = "Outside";
             room.LoggedUsers.Remove(this);
         }
 
+        // Fixed Bug.
         public void DisinfectLogout(Room room)
         {
             this.LoggedRoom = "Outside";

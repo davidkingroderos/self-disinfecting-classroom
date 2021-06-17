@@ -63,9 +63,11 @@ namespace Self_Disinfecting_Classroom
                 sb.Append($"{loggedUser.FullName} || ");
             }
             sb.AppendLine();
-            
-            sb.AppendLine($"Is Disinfecting: {IsDisinfecting}");
-            
+
+            string isDisinfectingString = this.IsDisinfecting ? "Yes" : "No";
+            sb.AppendLine($"Is Disinfecting: {isDisinfectingString}");
+            sb.AppendLine($"Is Disinfecting: {isDisinfectingString}");
+
             return sb.ToString();
         }
     }
