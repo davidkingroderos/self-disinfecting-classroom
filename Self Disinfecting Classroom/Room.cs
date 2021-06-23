@@ -66,7 +66,7 @@ namespace Self_Disinfecting_Classroom
 
             string isDisinfectingString = this.IsDisinfecting ? "Yes" : "No";
             sb.AppendLine($"Is Disinfecting: {isDisinfectingString}");
-            sb.AppendLine($"Is Disinfecting: {isDisinfectingString}");
+            sb.AppendLine($"Door Locked: {isDisinfectingString}");
 
             return sb.ToString();
         }
