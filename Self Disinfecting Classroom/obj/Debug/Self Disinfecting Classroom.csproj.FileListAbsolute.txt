@@ -27,8 +27,9 @@ D:\GitHub\self-disinfecting-classroom\Self Disinfecting Classroom\bin\Debug\Self
 D:\GitHub\self-disinfecting-classroom\Self Disinfecting Classroom\bin\Debug\Self Disinfecting Classroom.pdb
 D:\GitHub\self-disinfecting-classroom\Self Disinfecting Classroom\bin\Debug\Bogus.dll
 D:\GitHub\self-disinfecting-classroom\Self Disinfecting Classroom\bin\Debug\Bogus.xml
-D:\GitHub\self-disinfecting-classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.csprojAssemblyReference.cache
 D:\GitHub\self-disinfecting-classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.csproj.CoreCompileInputs.cache
 D:\GitHub\self-disinfecting-classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.csproj.CopyComplete
 D:\GitHub\self-disinfecting-classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.exe
 D:\GitHub\self-disinfecting-classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.pdb
+D:\GitHub\self-disinfecting-classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.csproj.AssemblyReference.cache
+D:\GitHub\self-disinfecting-classroom\Self Disinfecting Classroom\obj\Debug\Self Disinfecting Classroom.csproj.SuggestedBindingRedirects.cache
